@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BrowserToolbarDemo</string>
+
+    <string name="way2online_url">https://www.way2online.com</string>
+    <string name="bbc_url">https://www.bbc.com</string>
+    <string name="foxnews_url">https://www.foxnews.com</string>
+    <string name="label_url">URL:</string>
+    <string name="label_may_launch_url">May Launch URL</string>
+    <string name="label_start_custom_tab">Open Custom Tab</string>
+</resources>
